@@ -2,6 +2,6 @@ n=int(raw_input())
 if((n%2)==0):
 	print("Even")
 elif((n%2)!=0):
-	print("odd")
+	print("Odd")
 else:
-	print("invalid")
+	print("Invalid")
